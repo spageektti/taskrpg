@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TaskRPG</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="twemoji.min.js"></script>
+  </head>
+  <body>
+	<nav>
+        <ul>
+            <li><a href="index.html" onclick="changeLanguage('en')">🇬🇧 English</a></li>
+            <li><a href="index.html" onclick="changeLanguage('pl')">🇵🇱 Polski</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>TaskRPG</h1>
+        <h2 data-i18n="subtitle"></h2>
+        <img src="img.gif" />
+        <h2 data-i18n="release-info"></h2>
+    </main>
+    <footer>
+        <a href="https://github.com/spageektti/taskrpg" target="_blank">
+            <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="height: 4vh;" alt="GitHub Logo">
+        </a>
+        <p>Copyright (C) 2024 spageektti.<br> <span data-i18n="license-info"></span> <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU GPL v3.0</a><span data-i18n="license-info-end"></span>.</p>
+    </footer>
+  </body>
+  <script src="script.js"></script>
+</html>
