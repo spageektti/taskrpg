@@ -1,6 +1,3 @@
-twemoji.parse(document.body);
-
-
 function updateContent(langData) {
     document.querySelectorAll('[data-i18n]').forEach(element => {
         const key = element.getAttribute('data-i18n');
