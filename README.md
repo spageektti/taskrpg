@@ -17,7 +17,7 @@ TaskRPG is a Flutter-based Android app that transforms your daily task managemen
 
 ## Get TaskRPG 📲
 
-[![Get it from F-Droid](https://img.shields.io/badge/Get%20it%20from-F--Droid-blue)](https://f-droid.org/en/packages/your.package.name)
+[![Get it from F-Droid](https://img.shields.io/badge/Get%20it%20from-F--Droid-blue)](https://f-droid.org/en/packages/cc.spageektti.taskrpg)
 [![Get it from GitHub](https://img.shields.io/badge/Get%20it%20from-GitHub-green)](https://github.com/spageektti/taskrpg/releases)
 
 ## Usage Instructions 📖
@@ -62,10 +62,6 @@ To set up TaskRPG for development, follow these steps:
   ```bash
   flutter test
   ```
-
-## Usage Instructions 📖
-
-For detailed usage instructions and documentation, visit our [TaskRPG Documentation](http://taskrpg.spageektti.cc/docs).
 
 ---
 
