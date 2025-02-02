@@ -7,6 +7,9 @@
 
 TaskRPG is a Flutter-based Android app that transforms your daily task management into a fun and engaging role-playing game. Level up, earn rewards, and stay productive as you conquer your to-do list!
 
+> [!WARNING]  
+> This project has been abandoned, and there are no plans to publish the code or binaries in the near future. Thank you for your interest.
+
 ## Features ✨
 
 - Gamify your task management experience.
